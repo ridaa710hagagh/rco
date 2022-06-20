@@ -16,7 +16,7 @@
           "API_ID": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "13301444"
+            "value": "16727482"
         },
         "HNDLR": {
             "description": "لاتغيرها ابدا",
@@ -26,7 +26,7 @@
             "API_HASH": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "66edc1dcfa8424e4e2a99a9bd8c25cb4"
+            "value": "55edb5638b3ce1b0dbeb00cc210525f2"
         },
            "SUDO_USERS": {
             "description": "اكتب ايدي المطور او اتركها كما هي",
