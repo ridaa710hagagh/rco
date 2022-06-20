@@ -10,7 +10,7 @@
     "repository": "https://github.com/SoRsRR8r9/strong",
     "env": {
         "SESSION": {
-            "description": " AgApOwnqtBUIeZTa1gW9BRKK4JUqnVLfuWXx1D_m-jeQsN4CzXoaEOA6nWY4Y1PPikSuTveRE-QtHCdq9jGJsW77Or1B3mrO79kzgBUG6Dvzy7WiFpEwNOnEmiVvIzl-7RvPX0TRmw04JVkFHuOT1Klcburvsaf2cPfe3mPj9npsF8j-54iOvpVby3iRlrWkYq3U-dTUawT7_Hl4iYmASg7_8hmJcpBuM0_PxyHCelFzn2Xxs-gbk2WLjBPhuGUJn1s6baVwFLyw73Dug2HzkVwAxGZaOHcmOwRirDhTcZTn6wBK7_u5oipqLcHAcb68MN-bbsyjY7hrVWDUnC5rr2LyAAAAATCZTVkA ",
+            "description": " ضع هنا كود تيومكس ",
             "required": true
         },
           "API_ID": {
