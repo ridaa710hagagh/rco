@@ -20,7 +20,7 @@ async def skip(client, m: Message):
             await m.reply("معݪش ، ماެفي شي في اެݪاެنتضاެࢪ طݪعت من اެݪمكاެݪمةه ❤️‍🔥**")
         else:
             await m.reply(
-                f"**-›  اެبشࢪ عيني تم اެݪتخطي** \n**-›  اެݪحين ࢪاެح اެغني** - [{op[0]}]({op[1]}) | `{op[2]}`",
+                f"**-›  اެبشࢪ عيني تم اެݪتخطي** \n**-›  تم التشغيل ✅ ** - [{op[0]}]({op[1]}) | `{op[2]}`",
                 disable_web_page_preview=True,
             )
     else:
@@ -54,7 +54,7 @@ async def stop(client, m: Message):
         except Exception as e:
             await m.reply(f"**ERROR** \n`{e}`")
     else:
-        await m.reply("**معݪش ، ماެفي شي مشتغݪ ياެعيني 🌵.**")
+        await m.reply("**تم التشغيل  🌵.**")
 
 
 @Client.on_message(filters.command(["بلش"], prefixes=f"{HNDLR}"))
@@ -88,4 +88,4 @@ async def resume(client, m: Message):
         except Exception as e:
             await m.reply(f"**ERROR** \n`{e}`")
     else:
-        await m.reply("**معݪش ، ماެفي شي مشتغݪ ياެعيني 🌵.**")
+        await m.reply("**تم التشغيل 🌵.**")
