@@ -1,7 +1,7 @@
 {
     "name": "Source Freedom",
     "description": "لتشغيل الاغاني في المجموعات والقنوات.",
-    "logo": "https://te.legra.ph/file/402c519808f75bd9b1803.jpg",
+    "logo": "https://h.top4top.io/p_2362wmi8w1.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
@@ -10,13 +10,13 @@
     "repository": "https://github.com/SoRsRR8r9/strong",
     "env": {
         "SESSION": {
-            "description": "اكتب هنا كود ترمكس",
+            "description": " AgApOwnqtBUIeZTa1gW9BRKK4JUqnVLfuWXx1D_m-jeQsN4CzXoaEOA6nWY4Y1PPikSuTveRE-QtHCdq9jGJsW77Or1B3mrO79kzgBUG6Dvzy7WiFpEwNOnEmiVvIzl-7RvPX0TRmw04JVkFHuOT1Klcburvsaf2cPfe3mPj9npsF8j-54iOvpVby3iRlrWkYq3U-dTUawT7_Hl4iYmASg7_8hmJcpBuM0_PxyHCelFzn2Xxs-gbk2WLjBPhuGUJn1s6baVwFLyw73Dug2HzkVwAxGZaOHcmOwRirDhTcZTn6wBK7_u5oipqLcHAcb68MN-bbsyjY7hrVWDUnC5rr2LyAAAAATCZTVkA ",
             "required": true
         },
           "API_ID": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "19399491"
+            "value": "13301444"
         },
         "HNDLR": {
             "description": "لاتغيرها ابدا",
@@ -26,12 +26,12 @@
             "API_HASH": {
             "description": "لاتغيرها ابدا",
             "required": true,
-            "value": "eaa4f266934dfef23edb6d1f25e0b10f"
+            "value": "66edc1dcfa8424e4e2a99a9bd8c25cb4"
         },
            "SUDO_USERS": {
             "description": "اكتب ايدي المطور او اتركها كما هي",
             "required": true,
-            "value": "1854384004"
+            "value": "1254750804"
         }
     },
     "addons": [],
